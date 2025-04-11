@@ -1,0 +1,6 @@
+[submodule "cultbox-front"]
+	path = cultbox-front
+	url = https://github.com/Cult-Box/cultbox-front
+[submodule "cultbox-back"]
+	path = cultbox-back
+	url = https://github.com/Cult-Box/cultbox-back
